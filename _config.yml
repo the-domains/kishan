@@ -1,0 +1,28 @@
+name: Kishan
+favicon: null
+layout_spectrum: 0.9034221614710987
+typography_spectrum: 0.6070092602167279
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3616962474770844
+  lightness: 0.515881648985669
+  saturation: 0.22011309349909425
+  rhythmicContrast: 0.6897570106666535
+purpose: []
