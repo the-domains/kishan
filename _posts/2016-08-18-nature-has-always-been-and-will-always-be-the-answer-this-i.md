@@ -11,16 +11,16 @@ description: >-
   Mother nature shows us the way expressing itself with local, seasonal fruits
   and vegetables to simply say, hey everyone, this is what you should be eating,
   right now.
-datePublished: '2016-08-18T05:21:54.181Z'
-dateModified: '2016-08-18T05:21:37.129Z'
+datePublished: '2016-08-18T05:22:39.535Z'
+dateModified: '2016-08-18T05:22:02.828Z'
 title: ''
 author: []
 via: {}
+sourcePath: >-
+  _posts/2016-08-18-nature-has-always-been-and-will-always-be-the-answer-this-i.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: >-
-  _posts/2016-08-18-nature-has-always-been-and-will-always-be-the-answer-this-i.md
 url: nature-has-always-been-and-will-always-be-the-answer-this-i/index.html
 _type: Article
 
