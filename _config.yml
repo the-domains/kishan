@@ -1,7 +1,7 @@
-name: Kishan
+name: Kishan Shah
 favicon: null
-layout_spectrum: 0.9034221614710987
-typography_spectrum: 0.6070092602167279
+layout_spectrum: 0.04392
+typography_spectrum: 0.50246
 title: 'Kishan Shah | Ayurveda : Vinyasa Yoga : Meditation'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.3616962474770844
-  lightness: 0.515881648985669
-  saturation: 0.22011309349909425
-  rhythmicContrast: 0.6897570106666535
+    - '#d71921'
+    - '#ffffff'
+    - '#e76e34'
+    - '#bcd2c8'
+    - '#6fbeb6'
+  brandStrength: 0.5
+  lightness: 0.5625
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
